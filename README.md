@@ -1,6 +1,6 @@
 # Hi, I'm Inzamamul Haque
 
-**Senior Mobile Engineer · React Native · iOS · Android**
+**Software Engineer | React Native, iOS & Android | React, TypeScript & Node.js | UAE**
 
 I have 5+ years of professional software-development experience across React Native, iOS, Android, React and Node.js. I focus on building mobile products with strong architecture, reliable state management, offline-first workflows, native integrations, performance and maintainable delivery pipelines.
 

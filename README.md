@@ -1,3 +1,4 @@
+
 # Hi, I'm Inzamamul Haque
 
 **Software Engineer | React Native, iOS & Android | React, TypeScript & Node.js | UAE**
@@ -23,12 +24,6 @@ React Native incident-operations application demonstrating typed navigation, fea
 
 **Engineering focus:** React Native · TypeScript · Redux Toolkit · React Navigation · persistence · performance
 
-### [Mobile Engineering Labs](https://github.com/inzamam6161/mobile-engineering-labs)
-
-Focused mobile-engineering experiments covering performance, rendering, state normalization, testing, caching, concurrency and offline synchronization.
-
-**Engineering focus:** performance · architecture trade-offs · testing · state design · offline synchronization
-
 ### [PulseBoard iOS](https://github.com/inzamam6161/pulseboard-ios)
 
 Native SwiftUI productivity dashboard using SwiftData, Swift Charts, structured concurrency and accessibility-oriented UI patterns.
@@ -46,6 +41,22 @@ Native SwiftUI furniture-commerce experience with editorial discovery, search an
 Responsive customer-intelligence dashboard built with **Next.js, React and TypeScript**, including feedback filtering, keyboard workflows, accessible interactions and a deterministic server-side analysis flow.
 
 **Engineering focus:** React · TypeScript · Next.js · accessibility · server-side analysis · testing
+
+### [Nexora AI Lab](https://github.com/inzamam6161/nexora-ai-lab)
+
+Local-first browser intelligence toolkit built with **React and TypeScript**. It includes data analysis, dataset cleaning and Q&A, document and meeting analysis, resume-to-job skill comparison, expense insights, developer log analysis and local image tools.
+
+**Engineering focus:** React · TypeScript · browser-side processing · data analysis · privacy-conscious local workflows · transparent deterministic analysis
+
+**Live demo:** [Nexora AI Lab](https://nexora-ai-lab-psi.vercel.app/)
+
+Nexora deliberately distinguishes deterministic analysis and heuristics from generative AI. Its current tools do not require a paid AI API.
+
+### [Mobile Engineering Labs](https://github.com/inzamam6161/mobile-engineering-labs)
+
+Focused mobile-engineering experiments covering performance, rendering, state normalization, testing, caching, concurrency and offline synchronization.
+
+**Engineering focus:** performance · architecture trade-offs · testing · state design · offline synchronization
 
 ## Core technologies
 

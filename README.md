@@ -6,7 +6,7 @@
 I have 5+ years of professional software-development experience across React Native, iOS, Android, React and Node.js. I focus on building mobile products with strong architecture, reliable state management, offline-first workflows, native integrations, performance and maintainable delivery pipelines.
 
 - Based in the United Arab Emirates
-- Open to Senior React Native, Senior Mobile and Mobile Software Engineer opportunities
+- Open to Software Engineer, React Native, Mobile, Native iOS/Android and Frontend opportunities across the UAE and internationally
 - Professional experience with REST/API integrations, push notifications, analytics, payments and social integrations
 - Mobile release and CI/CD experience with Jenkins, Fastlane and Bamboo
 
